@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlCaraan
 - 👀 I’m interested in ...
-- livestreaming/content creator~
+- 🎮livestreaming/content creator~
 - facebook:@fb.gg/PlousiousGaming.PH
 - 🌱 I’m currently learning ...
 - Java, Javascript, Python, C#
