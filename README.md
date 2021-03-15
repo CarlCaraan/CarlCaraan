@@ -6,7 +6,7 @@
 - Java, Javascript, Python, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- email:@bannedefused@gmail.com
+- email:bannedefused@gmail.com
 - contact no. +639559168806/09559168806
 - facebook:@fb.com/caraancarl
 - instagram:@pc_masterrace_plousious
