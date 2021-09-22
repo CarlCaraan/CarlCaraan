@@ -7,7 +7,6 @@
 - facebook:@fb.com/caraancarl
 - fbpage:@fb.gg/PlousiousGaming.PH
 - instagram:@pc_masterrace_plousious
-- discord:@Caraan, Carl Aaron#8869
 - steam friend code:#157546687
 
 <!---
