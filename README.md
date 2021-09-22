@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @CarlCaraan
-- 👀 I’m interested in ...
-- 🎮livestreaming/content creator~
-- fbpage:@fb.gg/PlousiousGaming.PH
 - 🌱 I’m currently building projects ...
 - 💞️ I’m looking to collaborate on ...
 - 👨‍💻 Skills: HTML5, CSS3, PHP, MySQL, JS, JQuery, Ajax, C#, Python, Java, Laravel, Bootstrap, SQL
@@ -9,6 +5,7 @@
 - email:bannedefused@gmail.com
 - contact no. +639559168806/09559168806
 - facebook:@fb.com/caraancarl
+- fbpage:@fb.gg/PlousiousGaming.PH
 - instagram:@pc_masterrace_plousious
 - discord:@Caraan, Carl Aaron#8869
 - steam friend code:#157546687
