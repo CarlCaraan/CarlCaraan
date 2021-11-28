@@ -28,7 +28,7 @@ New Project Everytime I Publish
 # 📫 How to reach me
 - email:bannedefused@gmail.com
 - contact no. +639559168806/09559168806
-- facebook:@fb.com/caraancarl
+- facebook:@fb.com/caraancarl <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a>
 - fbpage:@fb.gg/PlousiousGaming.PH
 - instagram:@pc_masterrace_plousious
 - steam friend code:#157546687
