@@ -26,12 +26,12 @@ New Project Everytime I Publish
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 # 📫 How to reach me
-- email:bannedefused@gmail.com
-- contact no. +639559168806/09559168806
-- facebook:@fb.com/caraancarl <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a>
-- fbpage:@fb.gg/PlousiousGaming.PH
-- instagram:@pc_masterrace_plousious
-- steam friend code:#157546687
+bannedefused@gmail.com | 
+<a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
+<a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
+<a href="https://www.instagram.com/pc_masterrace_plousious/" target="_blank">Instagram</a> | 
+<a href="https://steamcommunity.com/id/MySteamProfileLink/" target="_blank">Steam</a> | 
+ +639559168806
 
 
 <!---
