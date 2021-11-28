@@ -31,7 +31,7 @@ bannedefused@gmail.com |
 <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
 <a href="https://www.instagram.com/pc_masterrace_plousious/" target="_blank">Instagram</a> | 
 <a href="https://steamcommunity.com/id/MySteamProfileLink/" target="_blank">Steam</a> | 
- +639559168806
++639559168806
 
 
 <!---
