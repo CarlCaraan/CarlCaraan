@@ -25,7 +25,7 @@ New Project Everytime I Publish
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-# 📫 How to reach me
+# 📫 How to reach me:<br>
 bannedefused@gmail.com | 
 <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
 <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
