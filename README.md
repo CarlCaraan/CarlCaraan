@@ -5,8 +5,9 @@ New Project Everytime I Publish
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlCaraan&layout=compact">
 
 - 🌱 I’m currently building projects.
-- 💞️ I’m looking to collaborate on.<br>
-
+- 💞️ I’m looking to collaborate on.
+<br>
+<br>
 <hr>
 
 # 👨‍💻 Languages & other stuff:
