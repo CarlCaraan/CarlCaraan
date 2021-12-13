@@ -27,9 +27,6 @@ New Project Everytime I Publish
 
 <br>
 <hr>
-<br>
-
-# 📫Contact:
 bannedefused@gmail.com | 
 <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
 <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
