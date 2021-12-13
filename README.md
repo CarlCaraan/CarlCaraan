@@ -8,8 +8,7 @@ New Project Everytime I Publish
 - 💞️ I’m looking to collaborate on.
 <br>
 <hr>
-<div align="center">
-  
+
 # 👨‍💻Languages & other stuff:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -18,13 +17,14 @@ New Project Everytime I Publish
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 # ⚙️Frameworks:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 # 👀Interested In:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-</div>
+
 <br>
 <hr>
 <div align="center">
@@ -35,7 +35,6 @@ bannedefused@gmail.com |
 <a href="https://steamcommunity.com/id/MySteamProfileLink/" target="_blank">Steam</a> | 
 +639559168806
 </div>
-
 
 <!---
 CarlCaraan/CarlCaraan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
