@@ -27,7 +27,7 @@ New Project Everytime I Publish
 
 <br>
 <hr>
-<div align="center">
+<div align="center" bgcolor="#fff">
 bannedefused@gmail.com | 
 <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
 <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
