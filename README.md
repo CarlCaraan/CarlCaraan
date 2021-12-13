@@ -24,7 +24,7 @@ New Project Everytime I Publish
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 <hr>
-<div align="center" bgcolor="#fff">
+<div align="center">
   bannedefused@gmail.com | 
   <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
   <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
