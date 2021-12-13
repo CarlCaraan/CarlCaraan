@@ -6,7 +6,7 @@ New Project Everytime I Publish
 
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
-<br>
+
 <br>
 <hr>
 
