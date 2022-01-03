@@ -6,14 +6,11 @@ New Project Everytime I Publish
 
 <img align="center" width="96%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CarlCaraan)
-
 ![Profile views](https://gpvc.arturio.dev/CarlCaraan)  
-
 
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
-<br>
+
 <hr>
 
 # 👨‍💻Languages & other stuff:
