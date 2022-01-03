@@ -1,8 +1,12 @@
 New Project Everytime I Publish
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CarlCaraan&show_icons=true&theme=cobalt">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CarlCaraan&show_icons=true">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlCaraan&layout=compact">
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlCaraan">
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CarlCaraan) 
+![Profile views](https://gpvc.arturio.dev/CarlCaraan)  
 
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
@@ -23,6 +27,7 @@ New Project Everytime I Publish
 # 👀Interested In:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
 <hr>
 <div align="center">
   bannedefused@gmail.com | 
@@ -32,7 +37,6 @@ New Project Everytime I Publish
   <a href="https://steamcommunity.com/id/MySteamProfileLink/" target="_blank">Steam</a> | 
   +639559168806
 </div>
-
 <!---
 CarlCaraan/CarlCaraan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
