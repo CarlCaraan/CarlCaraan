@@ -10,8 +10,6 @@ New Project Everytime I Publish
   
 <img align="center" width="46%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
 
-
-
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
 
