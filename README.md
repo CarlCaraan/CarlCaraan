@@ -1,12 +1,16 @@
 New Project Everytime I Publish
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CarlCaraan&show_icons=true">
+<img align="right" width="46%" src="https://metrics.lecoq.io/CarlCaraan">
 
-<img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlCaraan">
+<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=CarlCaraan&show_icons=true">
 
-<img align="center" width="96%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
+<img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlCaraan">
 
-![Profile views](https://gpvc.arturio.dev/CarlCaraan)  
+<img align="right" src="https://gpvc.arturio.dev/CarlCaraan">
+  
+<img align="center" width="46%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
+
+
 
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
@@ -29,8 +33,6 @@ New Project Everytime I Publish
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <hr>
-
-![I am GitHub Readme Generator's creator](https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg)
 
 <div align="center">
   bannedefused@gmail.com | 
