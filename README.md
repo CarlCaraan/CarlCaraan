@@ -29,6 +29,9 @@ New Project Everytime I Publish
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 
 <hr>
+
+![I am GitHub Readme Generator's creator](https://www.bustedcubicle.com/wp-content/uploads/2018/01/Industry-Disrupted-Programming-main-banner.jpg)
+
 <div align="center">
   bannedefused@gmail.com | 
   <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
