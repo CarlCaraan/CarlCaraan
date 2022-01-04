@@ -10,8 +10,12 @@ New Project Everytime I Publish
 
 <img align="right" src="https://gpvc.arturio.dev/CarlCaraan">
 
+<div align="left">
+  
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
+  
+</div>
 
 <hr>
 
