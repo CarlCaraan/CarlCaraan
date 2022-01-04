@@ -6,9 +6,9 @@ New Project Everytime I Publish
 
 <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlCaraan">
 
+<img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
+
 <img align="right" src="https://gpvc.arturio.dev/CarlCaraan">
-  
-<img align="center" width="46%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
 
 - 🌱 I’m currently building projects.
 - 💞️ I’m looking to collaborate on.
