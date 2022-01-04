@@ -1,4 +1,4 @@
-New Project Everytime I Publish
+New Project Everytime I Publish <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px"> 
 
 <img align="right" width="46%" src="https://metrics.lecoq.io/CarlCaraan">
 
@@ -10,12 +10,7 @@ New Project Everytime I Publish
 
 <img align="right" src="https://gpvc.arturio.dev/CarlCaraan">
 
-<div align="left">
-  
-- 🌱 I’m currently building projects.
-- 💞️ I’m looking to collaborate on.
-  
-</div>
+<br>
 
 <hr>
 
