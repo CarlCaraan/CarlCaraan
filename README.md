@@ -2,7 +2,7 @@ New Project Everytime I Publish
 
 <img align="right" width="46%" src="https://metrics.lecoq.io/CarlCaraan">
 
-<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=CarlCaraan&show_icons=true">
+<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=carlcaraan&show_icons=true&theme=cobalt">
 
 <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlCaraan">
 
