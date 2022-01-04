@@ -8,9 +8,7 @@ New Project Everytime I Publish <img src="https://raw.githubusercontent.com/Mart
 
 <img align="center" width="100%" src="https://activity-graph.herokuapp.com/graph?username=CarlCaraan">
 
-<img align="right" src="https://gpvc.arturio.dev/CarlCaraan">
-
-<br>
+<img align="center" src="https://gpvc.arturio.dev/CarlCaraan">
 
 <hr>
 
