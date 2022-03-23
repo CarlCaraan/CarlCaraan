@@ -31,7 +31,6 @@ New Project Everytime I Publish <img src="https://raw.githubusercontent.com/Mart
 <hr>
 
 <div align="center">
-  bannedefused@gmail.com | 
   <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
   <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
   <a href="https://www.instagram.com/dev_plousious/" target="_blank">Instagram</a> | 
