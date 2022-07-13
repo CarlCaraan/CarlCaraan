@@ -13,11 +13,7 @@ New Project Everytime I Publish 👋
 <hr>
 
 <div align="center">
-  <a href="https://www.facebook.com/caraancarl/" target="_blank">Facebook</a> | 
-  <a href="https://www.facebook.com/PlousiousGaming.PH" target="_blank">FB Page</a> | 
-  <a href="https://www.instagram.com/dev_plousious/" target="_blank">Instagram</a> | 
-  <a href="https://steamcommunity.com/id/MySteamProfileLink/" target="_blank">Steam</a> |
-  <a href="https://dev-caraan.netlify.app/" target="_blank">Carl Caraan</a>
+  <a href="https://carlcaraan-social-links.netlify.app/" target="_blank">Social Links</a>
 </div>
 <!---
 CarlCaraan/CarlCaraan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
