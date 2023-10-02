@@ -6,8 +6,6 @@ New Project Everytime I Publish 👋
 
 <img align="center" width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlCaraan">
 
-<img align="center" src="https://gpvc.arturio.dev/CarlCaraan">
-
 <hr>
 
 <div align="center">
